@@ -1,0 +1,40 @@
+*{
+    color: white;
+}
+body {
+    background-image: url("https://cdnportal.mobalytics.gg/production/2023/04/e89f75b7-root-of-nightmares-cataclysm-splash.jpg");
+    background-size: cover;
+   }
+   h1{ 
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-style:dotted;
+  border-color: white;
+  border-radius: 10px 10px 10px;
+   }
+   h3{
+    text-align: center;
+    font-size: 50px;
+    text-decoration-line: underline;
+   }
+   h4{
+    font-size: 20px;
+    text-decoration-line: underline;
+   }
+   h5{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+    border-style: solid;
+    border-color: black;
+    
+   }
+   h6{
+    font-size: 20px;
+    padding: 10PX 20px;
+   
+   }
+  
+
+   

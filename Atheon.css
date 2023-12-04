@@ -1,0 +1,14 @@
+
+body{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/qQqFr7r89JtBWqSXFU9qEf-1200-80.jpg");
+    background-size: cover;
+}
+h2{
+    text-align:left;
+    font-size: 90px;
+    color: rgb(255, 255, 255);
+    
+   }
+   *{
+    color: white;
+   }

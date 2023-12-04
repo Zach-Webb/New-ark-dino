@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/060/127/014/large/andrew-bonczyk-nezarec-3.jpg?1677865819");
+    background-size: cover;
+}
+h2{
+    text-align:left;
+    font-size: 90px;
+    color: rgb(255, 255, 255);
+    
+   }
+   a{
+    color: white;
+   }
